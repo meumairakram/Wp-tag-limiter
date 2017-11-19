@@ -1,7 +1,7 @@
 <?php
 /*
 * Plugin Name: Wp LimitTags  
-* Plugin URI: http://www.codeivo.com/
+* Plugin URI: https://github.com/meumairakram/Wp-tag-limiter
 * Description: A simple yet Useful Plugin by Umair Akram to Limit the Number of Tags in TagCloud  
 * Author: Umair Akram 
 * Author URI: http://www.codeivo.com/umair-akram
