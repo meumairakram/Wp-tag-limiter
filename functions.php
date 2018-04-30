@@ -30,3 +30,6 @@ if (!empty($get_zax_tag_limit->meta_value) && $get_zax_tag_limit->meta_value != 
 add_filter('widget_tag_cloud_args', 'zaxara_tag_widget_limiter');
 
 }
+
+
+//Nice
