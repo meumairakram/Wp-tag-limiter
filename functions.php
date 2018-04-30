@@ -1,6 +1,6 @@
 <?php
 
-
+// Hello
 
 global $wpdb;
 $get_zax_tag_limit = $wpdb->get_row("SELECT * FROM $wpdb->postmeta WHERE meta_key = 'zax_tag_limit'");
