@@ -9,4 +9,5 @@ A Simple Wordpress Plugin to Limit the number of Tags shown in the Tag Cloud.
 - Click the "Set Limit" Button to Set the Limit
 
 Note : In order to Display all the Tags in the Tag Cloud, You can either set the Value to "0" or leave it empty.
-<a href="http://www.austindowntownrealtor.com/hire-78701-realtor-buy-condo-austin/">78701 Realtor</a>
+
+Coded under the support of : <a href="http://codeivo.com">Codeivo | Code is Love </a>
